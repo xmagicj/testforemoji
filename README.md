@@ -573,9 +573,9 @@
 :sweet_potato:
 :eggplant:
 :tomato:
-:corn:
-Places
+:corn:  
 
+#Places
 :house:
 :house_with_garden:
 :school:
@@ -681,9 +681,9 @@ Places
 :ru:
 :gb:
 :uk:
-:de:
-Symbols
+:de:  
 
+# Symbols
 :one:
 :two:
 :three:
