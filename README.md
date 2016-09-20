@@ -1,9 +1,9 @@
 # testforemoji
 
 # People
-:bowtie: 
-:smile: 
-:simple_smile: 
+:bowtie:
+:simple_smile:
+:smile:
 :laughing: 
 :blush:
 :smiley:
