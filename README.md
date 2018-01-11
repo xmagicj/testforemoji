@@ -2,7 +2,7 @@
 
 # People
 :bowtie:
-:simple_smile:
+:slightly_smiling_face:
 :smile:
 :laughing: 
 :blush:
